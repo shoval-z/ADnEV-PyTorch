@@ -9,12 +9,12 @@ This repository present a pytorch implementation od the ADnEV algorithm present 
 
 ## config.py
 - contains an array of the csv filed. Each csv file contains the following columns:
- + instance- the schema pair ID.
- + alg- the algorithm that provide the matching between the schemas.
- + candName- the name of the attribute of the first schema (e.g table_name.attribute_name).
- + targetName- the same as above.
- + conf- the confidence level (a value between 0 to 1) of the algorithm in the attribute matching.
- + realConf- 1 if the 2 attributes are really matched together and 0 otherwise. 
+  + instance- the schema pair ID.
+  + alg- the algorithm that provide the matching between the schemas.
+  + candName- the name of the attribute of the first schema (e.g table_name.attribute_name).
+  + targetName- the same as above.
+  + conf- the confidence level (a value between 0 to 1) of the algorithm in the attribute matching.
+  + realConf- 1 if the 2 attributes are really matched together and 0 otherwise. 
 - The code is suitable for the case that each csv file contains only one pair. it can be easily customized to a different input configuration. 
 
 ## Data_prep.py
