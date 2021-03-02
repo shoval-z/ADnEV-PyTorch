@@ -18,7 +18,7 @@ This repository present a pytorch implementation od the ADnEV algorithm present 
 - The code is suitable for the case that each csv file contains only one pair. it can be easily customized to a different input configuration. 
 
 ## Data_prep.py
-- Create the Dataset from the csv files. Contain a __getitem__ function that returns the algorithm output matrix, the real matrix, and a dictionary of scores for that matching (precision, recall, F1 and cosin similarity).
+- Create the Dataset from the csv files. Contain a __getitem__ function that returns the algorithm output matrix, the real matrix, and a dictionary of scores for that matching (precision, recall, F1 and cosine similarity).
 
 ## ADnEV.py
 - Contains the full algorithm implementation- attempt to improve the input matrix and predict it's score.
