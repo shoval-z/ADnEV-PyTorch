@@ -2,12 +2,10 @@
 
 This repository present a pytorch implementation od the ADnEV algorithm present in [ADnEV: Cross-Domain Schema Matching using Deep Similarity Matrix Adjustment and Evaluation](http://www.vldb.org/pvldb/vol13/p1401-shraga.pdf)
 
-ADnEV: Cross-Domain Schema Matching using Deep Similarity Matrix Adjustment and Evaluation.
-
 ## pre-requirements
-•	Python 3.7 or higher
+•	Python 3.7 or higher.
 
-•	packages from requirements.txt in this repo
+•	packages from requirements.txt in this repo.
 
 ## config.py
 •	contains an array of the csv filed. Each csv file contains the following columns:
