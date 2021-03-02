@@ -1,4 +1,4 @@
-# ADnEV
+# ADnEV-PyTorch
 
 This repository present a pytorch implementation od the ADnEV algorithm present in ADnEV: Cross-Domain Schema Matching using Deep Similarity Matrix Adjustment and Evaluation.
 
