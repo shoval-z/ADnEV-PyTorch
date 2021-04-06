@@ -1,6 +1,6 @@
 # ADnEV-PyTorch
 
-This repository presents a pytorch implementation of the ADnEV algorithm present in [ADnEV: Cross-Domain Schema Matching using Deep Similarity Matrix Adjustment and Evaluation](http://www.vldb.org/pvldb/vol13/p1401-shraga.pdf)
+This repository presents a pytorch implementation of the ADnEV algorithm present in [ADnEV: Cross-Domain Schema Matching using Deep Similarity Matrix Adjustment and Evaluation](http://www.vldb.org/pvldb/vol13/p1401-shraga.pdf) by Roee Shraga, Avigdor Gal and Haggai Roitman
 
 ## pre-requirements
 - Python 3.7 or higher.
